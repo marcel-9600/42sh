@@ -19,14 +19,14 @@ MANDATORY SECTION:
     separators: ‘;’, ‘&&’, ‘||’.
 
 EXTRAS:
+
     alias
     which / where
     repeat
 
 
 Execution:
-    clone the repo
     
+    clone the repo
     make
-
     ./42sh
