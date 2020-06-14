@@ -1,5 +1,7 @@
 # 42sh
 
+EPITECH PROJECT
+
 A TCSH based shell in C
 
 Groups: 4 - 5 People
