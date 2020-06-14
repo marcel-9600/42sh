@@ -8,18 +8,18 @@ Time:   4 Weeks
 Authorized functions: all functions included in the libC or the ncurses library.
 
 MANDATORY SECTION:
-• spaces and tabs,
-• $PATH and environment,
-• errors and return value,
-• redirections (‘<’, ‘>’, ‘<<’ and ‘>>’),
-• pipes (‘|’),
-• builtins: cd, echo, exit, setenv, unsetenv,
-• separators: ‘;’, ‘&&’, ‘||’.
+    spaces and tabs,
+    $PATH and environment,
+    errors and return value,
+    redirections (‘<’, ‘>’, ‘<<’ and ‘>>’),
+    pipes (‘|’),
+    builtins: cd, echo, exit, setenv, unsetenv,
+    separators: ‘;’, ‘&&’, ‘||’.
 
 EXTRAS:
-• alias
-• which / where
-• repeat
+    alias
+    which / where
+    repeat
 
 
 Execution:
