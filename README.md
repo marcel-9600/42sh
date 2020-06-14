@@ -8,7 +8,8 @@ Time:   4 Weeks
 Authorized functions: all functions included in the libC or the ncurses library.
 
 MANDATORY SECTION:
-    spaces and tabs,
+    
+	spaces and tabs,
     $PATH and environment,
     errors and return value,
     redirections (‘<’, ‘>’, ‘<<’ and ‘>>’),
@@ -28,5 +29,3 @@ Execution:
     make
 
     ./42sh
-
-
