@@ -3,6 +3,7 @@
 A TCSH based shell in C
 
 Groups: 4 - 5 People
+
 Time:   4 Weeks
 
 Authorized functions: all functions included in the libC or the ncurses library.
